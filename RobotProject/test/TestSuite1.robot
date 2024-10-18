@@ -7,7 +7,7 @@ Library    SeleniumLibrary
 ${url}    http://google.com
 ${browser}    firefox
 ${email}    moses.adelere@gmail.com
-${password}    helper83-
+${password}    ********
 # list example
 @{Credential}    ${email}    ${password}
 # dictionary example
